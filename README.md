@@ -1,6 +1,6 @@
-# WebSite de Ecommerce
+# WebSite de Ecommerce 2
 
-+ Status:Em desenvolvimento
++ Status: Em desenvolvimento
 
 ## Objetivo desse projeto
 
